@@ -4,6 +4,13 @@ Beamer template with CUHK/CUHK-Shenzhen colors and logos. Please be noted that t
 
 This template is adapted from <https://github.com/mssun/cuhk-beamer> and <https://github.com/yuehaowang/CUHK-Beamer-Template>.
 
+## Support:
+- Chinese
+- Math Symbols
+- Algorithms
+- Academic Citations and Reference
+- ... ... 
+
 ## Demo
 
 Please refer to 'sample.tex' for the usage.
@@ -11,9 +18,12 @@ Please refer to 'sample.tex' for the usage.
 ![Cover](README.assets/cover.png)
 ![Text and lists](README.assets/text_lists.png)
 ![Columns](README.assets/columns.png)
+![Columns](README.assets/algs.png)
 ![Blocks](README.assets/math_blocks.png)
 ![Blocks](README.assets/reference.png)
 ![Blocks](README.assets/reference_list.png)
+
+
 
 ## License
 
